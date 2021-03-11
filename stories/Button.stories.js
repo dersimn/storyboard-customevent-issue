@@ -7,7 +7,7 @@ export default {
   },
   parameters: {
     actions: {
-      handles: ['mouseover', 'click'],
+      handles: ['mouseover', 'click', 'foo', 'bar'],
     },
   },
 };
